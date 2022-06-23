@@ -1,0 +1,19 @@
+
+  li{ display: inline;
+    margin-right: 10px;
+     }
+
+
+ .pic{ height: 110px;
+    width: 140px;
+    border: 10px solid red;
+    margin-left: 120px;
+     
+  }
+
+  .fon{ background-color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    font-style: italic;
+     
+  }
